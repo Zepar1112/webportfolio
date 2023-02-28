@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: #FBF8BE;
+}
+
+
+h1 {
+	font-size: 100px;
+}
+
+#nav {
+	background: #234E70 ;
+}
+
+#logo {
+	max-height: 40px;
+	background: #234E70;
+}
+#navbarScroll {
+	background: #234E70;
+}
+
+.toggle{
+	background: #234E70;
+}
+
+.nav-item {
+	background: #234E70;
+}
+
+
+
+/*Colors
+Royal Blue #234E70, Pale Yellow #FBF8BE
+*/
+
+/*
+font-family: 'Dancing Script', cursive;
+font-family: 'Mynerve', cursive;
+
+*/
+
+.container {
+	background: #FBF8BE;
+}
+
+#name1 {
+	font-family: 'Dancing Script', cursive;
+	
+}
+
+#name2 {
+	font-family:'Mynerve', cursive
+}
+
+h3 {  
+text-decoration: underline;  
+    text-decoration-color: #234E70;  
+}  
+
+#messagemodal {
+	background: #234E70;
+}

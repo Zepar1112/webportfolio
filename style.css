@@ -30,7 +30,9 @@ h1 {
 	background: #234E70;
 }
 
-
+.nav-item {
+	font-family: 'Mynerve', cursive;
+}
 
 /*Colors
 Royal Blue #234E70, Pale Yellow #FBF8BE
